@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 It's good to reach this step.
+<<<<<<< HEAD
 160 La Xuan Oai Thu Duc city
 DH CNTT
 Duong Quoc Hai
 
+=======
+>>>>>>> parent of 2358c46 (adding new information)
